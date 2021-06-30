@@ -1,6 +1,6 @@
 INTRODUCTION
 ------------
-Backend of the bookselling and online video streaming application. 
+Backend of the bookselling and online video streaming application maid with nodejs and mongodb. 
 
 This application is integrated with paypal, stripe, google cloud storage and CDN, firebase, 
 SMS notification and sending emails.
